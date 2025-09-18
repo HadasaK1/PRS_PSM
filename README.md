@@ -136,19 +136,3 @@ The script will produce:
 
 ---
 
-## **License**
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## **Citation**
-
-If you use PRS-PSM in your work, please cite our paper:
-
-> Kaufman H, et al. *Title of your paper.* Journal Name, 2025.
-> [https://doi.org/xxx](https://doi.org/xxx)
-
----
-
-Would you like me to also create a `LICENSE` file and a ready-to-go GitHub folder structure for you? That way you can just upload everything neatly.
