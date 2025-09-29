@@ -12,7 +12,7 @@ This helps to **reduce genetic confounding** and provides a cleaner comparison b
 
 * Matches individuals based on:
 
-  * Classical covariates (e.g., age, sex, smoking status)
+  * Classical covariates (e.g., age, sex, smoking status, BMI). You chose the relevant covariance based on your exposure and outcome phenotypes
   * Genetic risk for the exposure phenotype (PRS)
 * Outputs matched datasets for downstream causal inference analysis.
 * Simple command-line interface.
