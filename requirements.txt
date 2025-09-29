@@ -1,0 +1,12 @@
+pandas
+sys
+sklearn.linear_model
+sklearn.preprocessing
+os
+statsmodels.stats.contingency_tables
+matplotlib.pyplot
+seaborn
+numpy
+scipy.stats
+math
+argparse
